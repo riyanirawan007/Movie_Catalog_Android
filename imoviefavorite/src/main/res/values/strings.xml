@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">iMovieFavorite</string>
+
+    <string name="dialog_confirm_no">No</string>
+    <string name="lv_content_desc_movie_poster">Movie Poster</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="loading_movie_detail">Loading movie detail&#8237;</string>
+    <string name="label_release_date">Release Date</string>
+    <string name="label_score">Score</string>
+    <string name="label_runtime">Runtime</string>
+    <string name="label_status">Status</string>
+    <string name="label_budget">Budget</string>
+    <string name="label_genres">Genres</string>
+    <string name="label_production_companies">Production Companies</string>
+    <string name="label_production_countries">Production Countries</string>
+    <string name="label_spoken_languages">Spoken Languages</string>
+    <string name="label_overview">Overview</string>
+    <string name="undefined_content">Currently Undefined</string>
+
+    <string name="iv_desc_movie_list">Image Movie List</string>
+
+
+    <string name="dialog_title_information">Information</string>
+    <string name="dialog_title_confirmation">Confirmation</string>
+    <string name="dialog_msg_exit_confirm">Are you sure want to exit?</string>
+
+    <string name="share_caption_watch">Let\'s watch movie</string>
+    <string name="dialog_confirm_yes">Yes</string>
+    <string name="dialog_confirm_fav">Are you sure want to remove from your favorite movie?</string>
+    <string name="notice_delete_fav">successful delete from favorite movie!</string>
+    <string name="notice_detail_fav_not_available">Can\'t load detail, data may been deleted from other app</string>
+</resources>

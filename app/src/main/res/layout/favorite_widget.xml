@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorTransparent"
+    android:orientation="vertical"
+    android:padding="@dimen/widget_margin">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Favorite Movies"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="@color/colorWhite"
+        android:padding="@dimen/padding_components_3dp"
+        android:textStyle="bold" />
+    <StackView
+        android:background="@drawable/gradient_black_reverse"
+        android:id="@+id/sv_widget_fav"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:loopViews="true"/>
+
+    <RelativeLayout
+        android:id="@+id/tv_widget_fav_empty"
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:background="@drawable/gradient_black_reverse"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_centerInParent="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Your favorite movies is empty"
+            style="@style/textLabel"
+            android:gravity="center"/>
+
+    </RelativeLayout>
+
+
+</LinearLayout>

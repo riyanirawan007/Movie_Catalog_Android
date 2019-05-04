@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name" translatable="false">iMovie Catalogue</string>
+
+    <string name="word_movie_date_upcoming_on">will release soon on</string>
+    <string name="word_movie_date_release_on">will release on</string>
+
+    <string name="notification_daily_reminder_title">Daily Reminder</string>
+    <string name="notification_daily_release_title">Daily Release</string>
+    <string name="notification_daily_reminder_msg">Let\'s check movies catalogue, right now!</string>
+    <string name="notification_upcoming_movie_title">Up Coming Movie</string>
+    <string name="notification_release_movie_title">Movie Release Today</string>
+    <string name="info_daily_reminder_setup">Daily Reminder Created</string>
+    <string name="info_daily_reminder_cancel">Daily Reminder Canceled</string>
+    <string name="info_daily_release_setup">Daily Release Reminder Created</string>
+    <string name="info_daily_release_cancel">Daily Release Reminder Canceled</string>
+    <string name="search">Search</string>
+    <string name="dialog_title_upcoming_stat">Upcoming Movie Notifier</string>
+    <string name="dialog_confirm_no">No</string>
+    <string name="lv_content_desc_movie_poster">Movie Poster</string>
+    <string name="search_tell_cant_empty_keywords">Search keywords can\'t be empty!</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="loading_movie_detail">Loading movie detail&#8237;</string>
+    <string name="loading_detail_failed">Sorry, can\'t load movie detail, check your connection and try again&#8237;</string>
+    <string name="label_release_date">Release Date</string>
+    <string name="label_score">Score</string>
+    <string name="label_runtime">Runtime</string>
+    <string name="label_status">Status</string>
+    <string name="label_budget">Budget</string>
+    <string name="label_genres">Genres</string>
+    <string name="label_production_companies">Production Companies</string>
+    <string name="label_production_countries">Production Countries</string>
+    <string name="label_spoken_languages">Spoken Languages</string>
+    <string name="label_overview">Overview</string>
+    <string name="activity_label_daily_reminder">Daily Reminder</string>
+    <string name="activity_label_daily_release">Daily Release</string>
+    <string name="undefined_content">Currently Undefined</string>
+    <string name="activity_label_detail_movie">Detail Movie</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+
+    <string name="label_top_rated">Top Rated</string>
+    <string name="label_more">more ></string>
+    <string name="label_now_playing">Now Playing</string>
+    <string name="label_up_coming">Up Coming</string>
+    <string name="label_fav">Favorite</string>
+    <string name="iv_desc_top_rated">Image Top Rated</string>
+    <string name="iv_desc_movie_list">Image Movie List</string>
+    <string name="app_title" translatable="false">iMovie</string>
+    <string name="label_movie">Movie</string>
+    <string name="label_settings">Settings</string>
+    <string name="label_search_movie">Search Movie</string>
+
+
+    <string name="preference_summary_up_coming_notifier">Push notification about up coming movies</string>
+    <string name="preference_default_daily_reminder">Daily reminder not set yet</string>
+    <string name="preference_default_daily_release">Daily release reminder not set yet</string>
+    <string name="preference_category_title_app">Application</string>
+    <string name="preference_category_title_movie">Movie</string>
+    <string name="preference_title_language">Language</string>
+    <string name="preference_summary_language">Default language setting</string>
+    <string name="dialog_title_information">Information</string>
+    <string name="dialog_msg_cannot_load_data">Can\'t load data</string>
+    <string name="dialog_title_confirmation">Confirmation</string>
+    <string name="dialog_msg_exit_confirm">Are you sure want to exit?</string>
+
+    <string name="preference_default_false" translatable="false">false</string>
+    <string name="preferance_summary_daily_reminder_on">Daily Reminder on</string>
+    <string name="preferance_summary_daily_release_on">Daily Release Reminder on</string>
+    <string name="label_home">Home</string>
+    <string name="label_system">System</string>
+    <string name="share_caption_watch">Let\'s watch movie</string>
+    <string name="dialog_confirm_yes">Yes</string>
+    <string name="dialog_confirm_ok">OK</string>
+    <string name="notice_add_fav">successful added to your favorite movie!</string>
+    <string name="dialog_confirm_fav">Are you sure want to remove from your favorite movie?</string>
+    <string name="notice_delete_fav">successful delete from favorite movie!</string>
+    <string name="dialog_notice_fav_menu">You can remove favorite movie in menu Favorite</string>
+    <string name="notice_detail_fav_not_available">Can\'t load detail, data has been deleted from other app</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+
+</resources>

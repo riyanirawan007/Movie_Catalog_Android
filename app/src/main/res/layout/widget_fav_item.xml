@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:id="@+id/master_widget_fav"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <ImageView
+        android:id="@+id/iv_widget_fav"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/iv_desc_movie_list"
+        app:srcCompat="@drawable/no_images"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"/>
+    <TextView
+        android:id="@+id/tv_widget_fav"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="@string/label_fav"
+        android:background="@drawable/gradient_black"
+        android:theme="@style/textLabel"
+        android:layout_gravity="bottom"
+        style="@style/textLabel"
+        android:padding="@dimen/padding_components_3dp"/>
+</FrameLayout>

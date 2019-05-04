@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_confirm_yes">Ya</string>
+    <string name="dialog_confirm_no">Tidak</string>
+    <string name="lv_content_desc_movie_poster">Poster Film</string>
+    <string name="movie_poster">Poster Film</string>
+    <string name="loading_movie_detail">Sedang memuat detail film&#8237;</string>
+    <string name="label_release_date">Tanggal Rilis</string>
+    <string name="label_score">Penilaian</string>
+    <string name="label_runtime">Durasi</string>
+    <string name="label_status">Status Film</string>
+    <string name="label_budget">Keuangan</string>
+    <string name="label_genres">Tipe Film</string>
+    <string name="label_production_companies">Perusahaan Produksi</string>
+    <string name="label_production_countries">Negara Produksi</string>
+    <string name="label_spoken_languages">Bahasa Film</string>
+    <string name="label_overview">Ulasan</string>
+    <string name="undefined_content">Saat ini belum terdefinisi</string>
+    <string name="iv_desc_movie_list">Gamber Daftar Film</string>
+    <string name="dialog_title_information">Informasi</string>
+    <string name="dialog_title_confirmation">Konfirmasi</string>
+    <string name="dialog_msg_exit_confirm">Anda yakin ingin keluar dari Aplikasi?</string>
+    <string name="share_caption_watch">Ayo saksikan film</string>
+    <string name="dialog_confirm_fav">Anda yakin menghapus film ini dari daftar favorit?</string>
+    <string name="notice_delete_fav">berhasil dihapus dari film favorit!</string>
+    <string name="notice_detail_fav_not_available">Tidak dapat memnuat detail, data mungkin telah terhapus dari aplikasi lain</string>
+</resources>
